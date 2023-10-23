@@ -2,14 +2,9 @@
 <h3 align="center">"I aspire to become a prospective web publisher."</h3>
 
 Name : Woo Ji Hoon
-
 Gender : Male
-
 Birth : 1999.10.05
-
 MBTI : ISTP
-
-
 
 - 👨‍💻 All of my projects are available at [https://uzi-hoon99.github.io/personal2/](https://uzi-hoon99.github.io/personal2/)
 
