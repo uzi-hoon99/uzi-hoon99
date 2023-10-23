@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm UZI-HOON</h1>
 <h3 align="center">"I aspire to become a prospective web publisher."</h3>
 
+Name : Woo Ji Hoon
+
+Gender : Male
+
+Birth : 1999.10.05
+
+MBTI : ISTP
+
+
+
 - 👨‍💻 All of my projects are available at [https://uzi-hoon99.github.io/personal2/](https://uzi-hoon99.github.io/personal2/)
 
 - 📫 How to reach me **woojihun5168@gmail.com**
